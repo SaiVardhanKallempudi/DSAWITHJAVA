@@ -32,7 +32,7 @@
 
 <div align="center">
 
-## ��� Dashboard
+# Dashboard
 
 <table>
   <tr>
