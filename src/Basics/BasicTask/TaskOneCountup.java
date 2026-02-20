@@ -10,4 +10,9 @@ public class TaskOneCountup {
             System.out.println(i);
         }
     }
+    public void countDown(int n){
+        for(int i =n; i>=0; i--){
+            System.out.println(i);
+        }
+    }
 }
