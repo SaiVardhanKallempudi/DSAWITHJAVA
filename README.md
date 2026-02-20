@@ -1,124 +1,110 @@
 <div align="center">
 
-# 🚀 30-Day DSA Mastery Challenge
+# 🚀 30-Day DSA Mastery Journey
+### *Master Data Structures & Algorithms from Zero to Hero*
 
-### *From Zero to Hero in Data Structures & Algorithms*
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
+[![DSA](https://img.shields.io/badge/DSA-Mastery-00D9FF?style=for-the-badge&logo=codechef&logoColor=white)](https://github.com/SaiVardhanKallempudi/DSAWITHJAVA)
+[![Progress](https://img.shields.io/badge/Progress-0%25-FF6B6B?style=for-the-badge)](https://github.com/SaiVardhanKallempudi/DSAWITHJAVA)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-Master-green?style=for-the-badge)
-![Progress](https://img.shields.io/badge/Progress-0%25-red?style=for-the-badge)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Welcome+to+30-Day+DSA+Challenge!;From+Beginner+to+Problem+Solver;Consistency+is+the+Key+%F0%9F%94%91" alt="Typing SVG" />
 
 ---
 
-### *"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie*
+### 💭 *"The expert in anything was once a beginner who refused to give up."*
 
 </div>
 
 ---
 
-## 📖 Table of Contents
+## 📑 Quick Navigation
 
-- [About This Challenge](#about-this-challenge)
-- [How to Use This Plan](#how-to-use-this-plan)
-- [30-Day Roadmap](#30-day-roadmap)
-- [Progress Tracker](#progress-tracker)
-- [Resources](#resources)
-- [Problem-Solving Framework](#problem-solving-framework)
+<table>
+<tr>
+<td width="33%" align="center">
+  
+### 📊 [Progress](#-progress-dashboard)
+Track your journey
 
----
+</td>
+<td width="33%" align="center">
+  
+### 📚 [Curriculum](#-30-day-curriculum)
+Day-by-day plan
 
-## 🎯 About This Challenge
+</td>
+<td width="33%" align="center">
+  
+### 🎯 [Resources](#-ultimate-resources)
+Learning materials
 
-This is a **complete beginner-friendly** 30-day plan to master Data Structures and Algorithms using Java. Whether you're a complete beginner or someone looking to strengthen your foundation, this structured path will guide you from basic syntax to advanced problem-solving.
-
-### ✨ What You'll Learn:
-- ✅ Java fundamentals and syntax
-- ✅ Problem-solving techniques
-- ✅ Time & Space Complexity analysis
-- ✅ Core Data Structures (Arrays, Strings, LinkedList, Stack, Queue, Trees)
-- ✅ Essential Algorithms (Sorting, Searching, Recursion, Backtracking)
-- ✅ Pattern recognition for coding interviews
-
----
-
-## 📚 How to Use This Plan
-
-1. **Start from Day 1** - Don't skip days, build your foundation
-2. **Complete all tasks** - Theory + Practice problems
-3. **Code yourself** - Don't copy-paste, type everything
-4. **Mark checkboxes** - Track your progress daily
-5. **Review weekly** - Every 7 days, revise previous topics
-6. **Stay consistent** - 1-2 hours daily is better than 10 hours once a week
-
-### 📂 Repository Structure:
-```
-DSAWITHJAVA/
-├── Day01_Basics/
-│   ├── Theory.md
-│   ├── Problem1.java
-│   └── Problem2.java
-├── Day02_Loops/
-│   ├── ...
-└── README.md
-```
+</td>
+</tr>
+</table>
 
 ---
 
-## 🗓️ 30-Day Roadmap
+## 📊 Progress Dashboard
 
-### **Week 1: Foundations** 🏗️
+<div align="center">
 
-<details open>
-<summary><b>Day 1: Java Basics & Setup</b></summary>
+### 🎯 Overall Progress
 
-### 📌 Learning Objectives:
-- Install JDK and setup IDE (VS Code/IntelliJ)
-- Learn variables, data types, operators
-- Understand input/output in Java
-
-### 📖 Resources:
-- [Java Installation Guide](https://www.oracle.com/java/technologies/downloads/)
-- [Java Basics - W3Schools](https://www.w3schools.com/java/)
-- [Video: Java in 100 Minutes](https://www.youtube.com/watch?v=grEKMHGYyns)
-
-### 💻 Practice Problems:
-- [ ] Print "Hello World"
-- [ ] Take two numbers as input and print their sum
-- [ ] Swap two numbers without using third variable
-- [ ] Check if a number is even or odd
-- [ ] Find the largest of three numbers
-
-### 📝 Problem-Solving Framework (Example):
-
-**Problem:** Check if a number is even or odd
-
-**Step 1: Understand the Problem**
 ```
-Input: A number (int)
-Output: "Even" or "Odd"
-Logic: If number % 2 == 0, it's even
+████░░░░░░░░░░░░░░░░░░░░░░░░░░  0/30 Days Complete
+
+Week 1: ░░░░░░░  0/7 Days  |  Week 2: ░░░░░░░  0/7 Days
+Week 3: ░░░░░░░  0/7 Days  |  Week 4: ░░░░░░░  0/7 Days
+Final : ░░        0/2 Days
 ```
 
-**Step 2: Draw on Paper**
-```
-Test Cases:
-10 → 10 % 2 = 0 → Even ✓
-7 → 7 % 2 = 1 → Odd ✓
-```
+| 📈 Metric | 🎯 Target | ✅ Current |
+|-----------|-----------|-----------|
+| **Days Completed** | 30 | 0 |
+| **Problems Solved** | 150+ | 0 |
+| **Topics Mastered** | 15+ | 0 |
+| **Streak** 🔥 | 30 | 0 |
 
-**Step 3: Pseudocode**
-```
-1. Take input number
-2. Check number % 2
-3. If remainder is 0 → print "Even"
-4. Else → print "Odd"
-```
+</div>
 
-**Step 4: Code**
+---
+
+## 📚 30-Day Curriculum
+
+> **💡 How to use:** Click on each day to expand. Mark ✅ when done. Update your progress above!
+
+### 🏗️ **WEEK 1: Foundations**
+<details>
+<summary>✅ <b>Day 1 | Java Basics & Setup</b> → Click to expand</summary>
+
+<br>
+
+#### 🎯 Today's Mission
+- [ ] Install JDK (Java 17+)
+- [ ] Setup VS Code / IntelliJ IDEA
+- [ ] Understand variables, data types, operators
+- [ ] Master input/output using `Scanner`
+
+#### 📺 Watch First
+- [Java Installation & Setup (10 min)](https://www.youtube.com/watch?v=grEKMHGYyns)
+- [Java Basics - Variables & Data Types (15 min)](https://www.youtube.com/watch?v=eIrMbAQSU34)
+
+#### 💻 Solve These Problems
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| 1 | Print "Hello World" | ⭐ | [View](#) |
+| 2 | Sum of Two Numbers | ⭐ | [View](#) |
+| 3 | Swap Without 3rd Variable | ⭐ | [View](#) |
+| 4 | Even or Odd | ⭐ | [View](#) |
+| 5 | Max of Three Numbers | ⭐ | [View](#) |
+
+#### 🎓 Sample Code
 ```java
 import java.util.Scanner;
 
-public class EvenOdd {
+public class Day1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
@@ -133,1151 +119,785 @@ public class EvenOdd {
 }
 ```
 
-**Step 5: Test**
-```
-Input: 10 → Output: Even ✓
-Input: 7 → Output: Odd ✓
-```
+#### ✅ Checklist
+- [ ] Completed all 5 problems
+- [ ] Pushed code to GitHub
+- [ ] Understood basic syntax
 
-### 💪 Motivational Quote:
-*"Every expert was once a beginner. Don't give up!"*
+#### 💬 Today's Quote
+*"Every expert was once a beginner. Start now!"*
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-- [ ] Understood the framework
-
 </details>
 
 <details>
-<summary><b>Day 2: Conditional Statements & Operators</b></summary>
+<summary>⬜ <b>Day 2 | Conditional Statements & Operators</b></summary>
 
-### 📌 Learning Objectives:
-- Master if-else, switch statements
-- Learn logical operators (&&, ||, !)
-- Understand nested conditions
+<br>
 
-### 📖 Resources:
-- [Java If-Else](https://www.geeksforgeeks.org/java-if-else-statement/)
-- [Video: Conditionals in Java](https://www.youtube.com/watch?v=ldYLYRNaucM)
+#### 🎯 Today's Mission
+- [ ] Master `if-else` and nested conditions
+- [ ] Learn `switch-case` statements
+- [ ] Understand logical operators (`&&`, `||`, `!`)
 
-### 💻 Practice Problems:
-- [ ] [Leap Year Check](https://www.geeksforgeeks.org/program-check-given-year-leap-year/)
-- [ ] Grade calculator (marks to grade conversion)
-- [ ] Calculator using switch case (+, -, *, /)
-- [ ] Check if a character is vowel or consonant
-- [ ] Find maximum of 4 numbers using nested if
+#### 📺 Watch First
+- [If-Else in Java (12 min)](https://www.youtube.com/watch?v=ldYLYRNaucM)
+- [Switch Case Explained (10 min)](https://www.youtube.com/watch?v=fjyr3dZk7fU)
 
-### 💪 Motivational Quote:
+#### 💻 Solve These Problems
+
+| # | Problem | Difficulty | Link |
+|---|---------|-----------|------|
+| 1 | Leap Year Checker | ⭐ | [GFG](https://www.geeksforgeeks.org/program-check-given-year-leap-year/) |
+| 2 | Grade Calculator | ⭐⭐ | Practice |
+| 3 | Simple Calculator (+,-,*,/) | ⭐⭐ | Practice |
+| 4 | Vowel or Consonant | ⭐ | Practice |
+| 5 | Max of 4 Numbers | ⭐⭐ | Practice |
+
+#### ✅ Checklist
+- [ ] All problems solved
+- [ ] Code pushed to GitHub
+- [ ] Understood ternary operator
+
+#### 💬 Today's Quote
 *"Code is like humor. When you have to explain it, it's bad." - Cory House*
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-
 </details>
 
 <details>
-<summary><b>Day 3: Loops - Part 1 (for & while)</b></summary>
+<summary>⬜ <b>Day 3 | Loops - Part 1 (for, while, do-while)</b></summary>
 
-### 📌 Learning Objectives:
-- Understand for loop structure
-- Learn while and do-while loops
-- Know when to use which loop
+<br>
 
-### 📖 Resources:
-- [Java Loops Tutorial](https://www.w3schools.com/java/java_for_loop.asp)
-- [Striver's Video: Loops](https://www.youtube.com/watch?v=WR31ByTzAVQ)
+#### 🎯 Today's Mission
+- [ ] Understand `for` loop structure
+- [ ] Master `while` and `do-while` loops
+- [ ] Know when to use which loop
 
-### 💻 Practice Problems:
-- [ ] Print numbers 1 to N
-- [ ] Print sum of first N natural numbers
-- [ ] Print multiplication table of any number
-- [ ] Count digits in a number
-- [ ] Reverse a number
-- [ ] [Factorial of N](https://leetcode.com/problems/factorial-trailing-zeroes/)
+#### 📺 Watch First
+- [Java Loops Tutorial (18 min)](https://www.youtube.com/watch?v=WR31ByTzAVQ)
 
-### 💪 Motivational Quote:
-*"The only way to learn programming is by doing programming."*
+#### 💻 Solve These Problems
+
+| # | Problem | Difficulty | Link |
+|---|---------|-----------|------|
+| 1 | Print 1 to N | ⭐ | Practice |
+| 2 | Sum of First N Numbers | ⭐ | Practice |
+| 3 | Multiplication Table | ⭐ | Practice |
+| 4 | Count Digits | ⭐⭐ | Practice |
+| 5 | Reverse a Number | ⭐⭐ | Practice |
+| 6 | Factorial of N | ⭐⭐ | [LeetCode](https://leetcode.com/problems/factorial-trailing-zeroes/) |
+
+#### 🎓 Key Concept
+```java
+// For loop - when you know iterations
+for (int i = 1; i <= 10; i++) {
+    System.out.println(i);
+}
+
+// While loop - when iterations unknown
+while (num != 0) {
+    num = num / 10;
+}
+```
+
+#### ✅ Checklist
+- [ ] All 6 problems solved
+- [ ] Understand loop flow
+- [ ] Code committed
+
+#### 💬 Today's Quote
+*"Loops are the rhythm of programming."*
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-
 </details>
 
 <details>
-<summary><b>Day 4: Loops - Part 2 (Nested Loops & Patterns)</b></summary>
+<summary>⬜ <b>Day 4 | Loops - Part 2 (Patterns & Nested Loops)</b></summary>
 
-### 📌 Learning Objectives:
-- Master nested loops
-- Understand row-column relationship
-- Solve pattern problems
+<br>
 
-### 📖 Resources:
-- [Pattern Programming Guide](https://www.geeksforgeeks.org/pattern-programming-in-java/)
+#### 🎯 Today's Mission
+- [ ] Master nested loops
+- [ ] Understand row-column relationship
+- [ ] Solve 7 pattern problems
+
+#### 📺 Watch First
+- [Pattern Programming Guide (25 min)](https://www.youtube.com/watch?v=lsOOs5J8ycw)
 - [Striver's Pattern Playlist](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/)
 
-### 💻 Practice Problems:
-- [ ] Square pattern (N x N stars)
-- [ ] Right triangle pattern
-- [ ] Inverted right triangle
-- [ ] Number pyramid
-- [ ] Diamond pattern
-- [ ] Hollow square pattern
-- [ ] [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+#### 💻 Solve These Patterns
 
-### 💪 Motivational Quote:
-*"First, solve the problem. Then, write the code." - John Johnson*
+| # | Pattern | Difficulty | Status |
+|---|---------|-----------|--------|
+| 1 | Square (N×N stars) | ⭐ | ⬜ |
+| 2 | Right Triangle | ⭐ | ⬜ |
+| 3 | Inverted Triangle | ⭐⭐ | ⬜ |
+| 4 | Number Pyramid | ⭐⭐ | ⬜ |
+| 5 | Diamond Pattern | ⭐⭐⭐ | ⬜ |
+| 6 | Hollow Square | ⭐⭐ | ⬜ |
+| 7 | Pascal's Triangle | ⭐⭐⭐ | [LeetCode](https://leetcode.com/problems/pascals-triangle/) |
+
+#### 🎓 Pattern Template
+```java
+// Outer loop = ROWS
+for (int row = 0; row < n; row++) {
+    // Inner loop = COLUMNS/STARS
+    for (int col = 0; col <= row; col++) {
+        System.out.print("* ");
+    }
+    System.out.println();
+}
+```
+
+#### ✅ Checklist
+- [ ] Drew patterns on paper first
+- [ ] Solved all 7 patterns
+- [ ] Understood nested loop logic
+
+#### 💬 Today's Quote
+*"First solve the problem, then write the code." - John Johnson*
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-
 </details>
 
 <details>
-<summary><b>Day 5: Functions & Methods</b></summary>
+<summary>⬜ <b>Day 5 | Functions & Methods</b></summary>
 
-### 📌 Learning Objectives:
-- Create reusable functions
-- Understand parameters and return types
-- Learn function overloading
+<br>
 
-### 📖 Resources:
-- [Java Methods](https://www.w3schools.com/java/java_methods.asp)
-- [Video: Functions in Java](https://www.youtube.com/watch?v=vvanI8NRlSI)
+#### 🎯 Today's Mission
+- [ ] Create reusable functions
+- [ ] Understand parameters & return types
+- [ ] Learn function overloading
 
-### 💻 Practice Problems:
-- [ ] Create a function to check prime number
-- [ ] Function to find factorial
-- [ ] Function to check palindrome number
-- [ ] Function to find GCD of two numbers
-- [ ] Function to check Armstrong number
-- [ ] [Count Primes](https://leetcode.com/problems/count-primes/)
+#### 💻 Solve These Problems
 
-### 💪 Motivational Quote:
-*"Functions are the building blocks of readable and maintainable code."*
+| # | Problem | Difficulty | Link |
+|---|---------|-----------|------|
+| 1 | Prime Number Checker | ⭐⭐ | Practice |
+| 2 | Factorial Function | ⭐ | Practice |
+| 3 | Palindrome Checker | ⭐⭐ | Practice |
+| 4 | GCD of Two Numbers | ⭐⭐ | Practice |
+| 5 | Armstrong Number | ⭐⭐ | Practice |
+| 6 | Count Primes (1 to N) | ⭐⭐⭐ | [LeetCode](https://leetcode.com/problems/count-primes/) |
+
+#### ✅ Checklist
+- [ ] All functions working
+- [ ] Added proper comments
+- [ ] Tested with multiple inputs
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-
 </details>
 
 <details>
-<summary><b>Day 6: Arrays - Part 1 (Basics)</b></summary>
+<summary>⬜ <b>Day 6 | Arrays - Part 1 (Basics)</b></summary>
 
-### 📌 Learning Objectives:
-- Declare and initialize arrays
-- Access and modify array elements
-- Traverse arrays using loops
+<br>
 
-### 📖 Resources:
-- [Java Arrays Tutorial](https://www.geeksforgeeks.org/arrays-in-java/)
-- [Striver's Array Playlist](https://takeuforward.org/data-structure/striver-a2z-dsa-course-sheet-2/)
+#### 🎯 Today's Mission
+- [ ] Declare & initialize arrays
+- [ ] Traverse arrays using loops
+- [ ] Perform basic operations
 
-### 💻 Practice Problems:
-- [ ] Find largest element in array
-- [ ] Find smallest element in array
-- [ ] Calculate sum and average of array
-- [ ] [Two Sum Problem](https://leetcode.com/problems/two-sum/)
-- [ ] Reverse an array
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+#### 💻 Solve These Problems
 
-### 💪 Motivational Quote:
-*"An array of possibilities awaits those who practice."*
+| # | Problem | Difficulty | Link |
+|---|---------|-----------|------|
+| 1 | Find Largest Element | ⭐ | Practice |
+| 2 | Find Smallest Element | ⭐ | Practice |
+| 3 | Sum & Average | ⭐ | Practice |
+| 4 | Two Sum | ⭐⭐ | [LeetCode](https://leetcode.com/problems/two-sum/) |
+| 5 | Reverse Array | ⭐ | Practice |
+| 6 | Contains Duplicate | ⭐ | [LeetCode](https://leetcode.com/problems/contains-duplicate/) |
+
+#### ✅ Checklist
+- [ ] Solved all 6 problems
+- [ ] Understand array indexing
+- [ ] Know time complexity
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-
 </details>
 
 <details>
-<summary><b>Day 7: Arrays - Part 2 (Operations)</b></summary>
+<summary>⬜ <b>Day 7 | Arrays - Part 2 (Operations)</b></summary>
 
-### 📌 Learning Objectives:
-- Insert and delete in arrays
-- Search in arrays (Linear search)
-- Introduction to time complexity
+<br>
 
-### 📖 Resources:
-- [Array Operations](https://www.geeksforgeeks.org/array-data-structure/)
-- [Time Complexity Basics](https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/)
-
-### 💻 Practice Problems:
+#### 🎯 Today's Mission
+- [ ] Array insertion & deletion
 - [ ] Linear search implementation
-- [ ] [Remove Element](https://leetcode.com/problems/remove-element/)
-- [ ] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-- [ ] [Rotate Array](https://leetcode.com/problems/rotate-array/)
-- [ ] Find second largest element
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [ ] Introduction to Big O notation
 
-### 💪 Motivational Quote:
-*"Week 1 completed! 🎉 You're building momentum!"*
+#### 💻 Solve These Problems
+
+| # | Problem | Difficulty | Link |
+|---|---------|-----------|------|
+| 1 | Linear Search | ⭐ | Practice |
+| 2 | Remove Element | ⭐ | [LeetCode](https://leetcode.com/problems/remove-element/) |
+| 3 | Remove Duplicates | ⭐ | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| 4 | Rotate Array | ⭐⭐ | [LeetCode](https://leetcode.com/problems/rotate-array/) |
+| 5 | Second Largest | ⭐⭐ | Practice |
+| 6 | Best Time to Buy/Sell Stock | ⭐⭐ | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+
+#### 🎉 Week 1 Complete!
+- [ ] Review all Week 1 topics
+- [ ] Update progress dashboard
+- [ ] Celebrate! 🎊
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-- [ ] **Weekly Review: Revise Day 1-7**
-
 </details>
 
----
-
-### **Week 2: Building Blocks** 🧱
+### 🧱 **WEEK 2: Building Blocks**
 
 <details>
-<summary><b>Day 8: Strings - Part 1 (Basics)</b></summary>
+<summary>⬜ <b>Day 8 | Strings - Part 1</b></summary>
 
-### 📌 Learning Objectives:
-- String declaration and initialization
-- String methods (length, charAt, substring)
-- String immutability concept
+<br>
 
-### 📖 Resources:
-- [Java Strings](https://www.geeksforgeeks.org/strings-in-java/)
-- [Video: Strings in Java](https://www.youtube.com/watch?v=zL1DPZ0Ovlo)
+#### 🎯 Today's Mission
+- [ ] String declaration & methods
+- [ ] String immutability
+- [ ] Common string operations
 
-### 💻 Practice Problems:
-- [ ] Reverse a string
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-- [ ] Count vowels and consonants
-- [ ] [First Unique Character](https://leetcode.com/problems/first-unique-character-in-a-string/)
-- [ ] Convert string to uppercase/lowercase without inbuilt function
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+#### 💻 Solve These Problems
 
-### 💪 Motivational Quote:
-*"String manipulation is the art of coding elegance."*
+| # | Problem | Difficulty | Link |
+|---|---------|-----------|------|
+| 1 | Reverse String | ⭐ | Practice |
+| 2 | Valid Palindrome | ⭐ | [LeetCode](https://leetcode.com/problems/valid-palindrome/) |
+| 3 | Count Vowels | ⭐ | Practice |
+| 4 | First Unique Character | ⭐⭐ | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) |
+| 5 | Case Conversion | ⭐ | Practice |
+| 6 | Valid Anagram | ⭐ | [LeetCode](https://leetcode.com/problems/valid-anagram/) |
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-
 </details>
 
 <details>
-<summary><b>Day 9: Strings - Part 2 (Advanced)</b></summary>
+<summary>⬜ <b>Day 9 | Strings - Part 2</b></summary>
 
-### 📌 Learning Objectives:
-- StringBuilder vs String
-- String comparison methods
-- String manipulation techniques
+<br>
 
-### 📖 Resources:
-- [StringBuilder in Java](https://www.geeksforgeeks.org/stringbuilder-class-in-java-with-examples/)
+#### 💻 Solve These Problems
 
-### 💻 Practice Problems:
-- [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
-- [ ] Remove all spaces from string
-- [ ] Check if two strings are rotation of each other
-- [ ] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
-- [ ] Count frequency of each character
-- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-
-### 💪 Motivational Quote:
-*"Every string problem is a puzzle waiting to be solved."*
+| # | Problem | Difficulty | Link |
+|---|---------|-----------|------|
+| 1 | Longest Common Prefix | ⭐⭐ | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) |
+| 2 | Remove Spaces | ⭐ | Practice |
+| 3 | String Rotation | ⭐⭐ | Practice |
+| 4 | Reverse Words | ⭐⭐ | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) |
+| 5 | Character Frequency | ⭐⭐ | Practice |
+| 6 | Group Anagrams | ⭐⭐⭐ | [LeetCode](https://leetcode.com/problems/group-anagrams/) |
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-
 </details>
 
 <details>
-<summary><b>Day 10: Sorting Algorithms - Part 1</b></summary>
+<summary>⬜ <b>Day 10 | Sorting Algorithms - Part 1</b></summary>
 
-### 📌 Learning Objectives:
-- Understand Bubble Sort
-- Understand Selection Sort
-- Analyze time complexity O(n²)
+<br>
 
-### 📖 Resources:
-- [Sorting Algorithms Visualized](https://www.geeksforgeeks.org/sorting-algorithms/)
-- [Video: Bubble & Selection Sort](https://www.youtube.com/watch?v=xli_FI7CuzA)
+#### 🎯 Today's Mission
+- [ ] Bubble Sort
+- [ ] Selection Sort
+- [ ] Time Complexity O(n²)
 
-### 💻 Practice Problems:
-- [ ] Implement Bubble Sort
-- [ ] Implement Selection Sort
-- [ ] Sort array in descending order
-- [ ] [Sort Colors (Dutch National Flag)](https://leetcode.com/problems/sort-colors/)
-- [ ] Find kth smallest element using sorting
-- [ ] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-
-### 💪 Motivational Quote:
-*"Sorting is not just arranging data; it's organizing chaos into clarity."*
+#### 💻 Problems
+1. Implement Bubble Sort
+2. Implement Selection Sort
+3. [Sort Colors](https://leetcode.com/problems/sort-colors/)
+4. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-
 </details>
 
 <details>
-<summary><b>Day 11: Sorting Algorithms - Part 2</b></summary>
+<summary>⬜ <b>Day 11 | Sorting - Part 2 (Merge Sort)</b></summary>
 
-### 📌 Learning Objectives:
-- Understand Insertion Sort
-- Learn Merge Sort (Divide & Conquer)
-- Compare different sorting algorithms
+<br>
 
-### 📖 Resources:
-- [Merge Sort Explained](https://www.geeksforgeeks.org/merge-sort/)
-- [Striver's Video: Merge Sort](https://www.youtube.com/watch?v=ogjf7ORKfd8)
-
-### 💻 Practice Problems:
-- [ ] Implement Insertion Sort
-- [ ] Implement Merge Sort
-- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [ ] Count inversions in array
-- [ ] [Kth Largest Element](https://leetcode.com/problems/kth-largest-element-in-an-array/)
-
-### 💪 Motivational Quote:
-*"Divide and conquer - both in algorithms and in life."*
+#### 💻 Problems
+1. Implement Insertion Sort
+2. Implement Merge Sort
+3. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+4. [Kth Largest Element](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-
 </details>
 
 <details>
-<summary><b>Day 12: Searching Algorithms</b></summary>
+<summary>⬜ <b>Day 12 | Binary Search</b></summary>
 
-### 📌 Learning Objectives:
-- Master Binary Search
-- Understand search space reduction
-- Learn binary search on answer pattern
+<br>
 
-### 📖 Resources:
-- [Binary Search Guide](https://www.geeksforgeeks.org/binary-search/)
-- [Striver's Binary Search Playlist](https://takeuforward.org/data-structure/binary-search-explained/)
-
-### 💻 Practice Problems:
-- [ ] Implement Binary Search
-- [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
-- [ ] [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
-- [ ] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
-- [ ] Square root using binary search
-- [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-
-### 💪 Motivational Quote:
-*"Binary search: The art of eliminating half your problems at a time."*
+#### 💻 Problems
+1. Binary Search Implementation
+2. [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+3. [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+4. [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+5. [Search in Rotated Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-
 </details>
 
 <details>
-<summary><b>Day 13: 2D Arrays (Matrix)</b></summary>
+<summary>⬜ <b>Day 13 | 2D Arrays (Matrix)</b></summary>
 
-### 📌 Learning Objectives:
-- Declare and traverse 2D arrays
-- Row-wise and column-wise operations
-- Matrix problems
+<br>
 
-### 📖 Resources:
-- [2D Arrays in Java](https://www.geeksforgeeks.org/multidimensional-arrays-in-java/)
-
-### 💻 Practice Problems:
-- [ ] Print matrix in spiral order
-- [ ] [Transpose of Matrix](https://leetcode.com/problems/transpose-matrix/)
-- [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
-- [ ] Search in 2D matrix
-- [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
-- [ ] Wave print of matrix
-
-### 💪 Motivational Quote:
-*"Think in dimensions beyond the obvious."*
+#### 💻 Problems
+1. Spiral Matrix Print
+2. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
+3. [Rotate Image](https://leetcode.com/problems/rotate-image/)
+4. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-
 </details>
 
 <details>
-<summary><b>Day 14: Hashing Basics</b></summary>
+<summary>⬜ <b>Day 14 | Hashing (HashMap & HashSet)</b></summary>
 
-### 📌 Learning Objectives:
-- Understand HashMap and HashSet
-- Frequency counting problems
-- O(1) lookup advantage
+<br>
 
-### 📖 Resources:
-- [HashMap in Java](https://www.geeksforgeeks.org/java-util-hashmap-in-java-with-examples/)
-- [Video: Hashing Explained](https://www.youtube.com/watch?v=KEs5UyBJ39g)
+#### 💻 Problems
+1. [Two Sum (HashMap)](https://leetcode.com/problems/two-sum/)
+2. Frequency Counter
+3. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+4. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 
-### 💻 Practice Problems:
-- [ ] [Two Sum using HashMap](https://leetcode.com/problems/two-sum/)
-- [ ] Find frequency of array elements
-- [ ] [First Repeating Element](https://www.geeksforgeeks.org/find-first-repeating-element-array-integers/)
-- [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
-- [ ] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
-
-### 💪 Motivational Quote:
-*"Week 2 completed! 🚀 You're halfway to mastery!"*
+#### 🎉 Week 2 Complete! Review & Update Progress
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-- [ ] **Weekly Review: Revise Day 8-14**
-
 </details>
 
----
-
-### **Week 3: Advanced Concepts** 🚀
+### 🚀 **WEEK 3: Advanced Concepts**
 
 <details>
-<summary><b>Day 15: Recursion - Part 1 (Basics)</b></summary>
+<summary>⬜ <b>Day 15 | Recursion - Basics</b></summary>
 
-### 📌 Learning Objectives:
-- Understand recursion concept
-- Learn base case and recursive case
-- Trace recursive calls
+<br>
 
-### 📖 Resources:
-- [Recursion in Java](https://www.geeksforgeeks.org/recursion-in-java/)
-- [Striver's Recursion Series](https://takeuforward.org/data-structure/recursion-explained/)
-
-### 💻 Practice Problems:
-- [ ] Print 1 to N using recursion
-- [ ] Print N to 1 using recursion
-- [ ] Calculate factorial using recursion
-- [ ] [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
-- [ ] Sum of first N natural numbers
-- [ ] [Power of Two](https://leetcode.com/problems/power-of-two/)
-
-### 💪 Motivational Quote:
-*"To understand recursion, you must first understand recursion."*
+#### 💻 Problems
+1. Print 1 to N (Recursive)
+2. Factorial (Recursive)
+3. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+4. [Power of Two](https://leetcode.com/problems/power-of-two/)
+5. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-
 </details>
 
 <details>
-<summary><b>Day 16: Recursion - Part 2 (Intermediate)</b></summary>
+<summary>⬜ <b>Day 16 | Recursion - Intermediate</b></summary>
 
-### 📌 Learning Objectives:
-- Solve array problems using recursion
-- Understand recursive tree
-- Learn time complexity of recursion
+<br>
 
-### 📖 Resources:
-- [Recursion Tree Method](https://www.geeksforgeeks.org/recursion-tree-method/)
-
-### 💻 Practice Problems:
-- [ ] Check if array is sorted (recursive)
-- [ ] [Reverse String](https://leetcode.com/problems/reverse-string/) using recursion
-- [ ] [Power(x, n)](https://leetcode.com/problems/powx-n/)
-- [ ] Sum of digits using recursion
-- [ ] Print all subsequences of a string
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-
-### 💪 Motivational Quote:
-*"Recursion is thinking in smaller versions of the same problem."*
+#### 💻 Problems
+1. Check Sorted Array (Recursive)
+2. [Reverse String](https://leetcode.com/problems/reverse-string/)
+3. [Power(x, n)](https://leetcode.com/problems/powx-n/)
+4. Sum of Digits
+5. Print Subsequences
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-
 </details>
 
 <details>
-<summary><b>Day 17: Recursion - Part 3 (Backtracking)</b></summary>
+<summary>⬜ <b>Day 17 | Backtracking</b></summary>
 
-### 📌 Learning Objectives:
-- Introduction to backtracking
-- Generate all combinations/permutations
-- Solve constraint satisfaction problems
+<br>
 
-### 📖 Resources:
-- [Backtracking Algorithm](https://www.geeksforgeeks.org/backtracking-algorithms/)
-- [Video: Backtracking Basics](https://www.youtube.com/watch?v=DKCbsiDBN6c)
-
-### 💻 Practice Problems:
-- [ ] [Subsets](https://leetcode.com/problems/subsets/)
-- [ ] [Permutations](https://leetcode.com/problems/permutations/)
-- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum/)
-- [ ] [Letter Combinations of Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
-- [ ] [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
-
-### 💪 Motivational Quote:
-*"Backtracking: Try, fail, learn, retry smarter."*
+#### 💻 Problems
+1. [Subsets](https://leetcode.com/problems/subsets/)
+2. [Permutations](https://leetcode.com/problems/permutations/)
+3. [Combination Sum](https://leetcode.com/problems/combination-sum/)
+4. [Letter Combinations](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-
 </details>
 
 <details>
-<summary><b>Day 18: Two Pointers Technique</b></summary>
+<summary>⬜ <b>Day 18 | Two Pointers Technique</b></summary>
 
-### 📌 Learning Objectives:
-- Master two pointers approach
-- Solve array/string problems efficiently
-- Reduce time complexity from O(n²) to O(n)
+<br>
 
-### 📖 Resources:
-- [Two Pointers Technique](https://www.geeksforgeeks.org/two-pointers-technique/)
-
-### 💻 Practice Problems:
-- [ ] [Two Sum II - Sorted Array](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-- [ ] [3Sum](https://leetcode.com/problems/3sum/)
-- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
-- [ ] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-- [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-
-### 💪 Motivational Quote:
-*"Two pointers, infinite possibilities."*
+#### 💻 Problems
+1. [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+2. [3Sum](https://leetcode.com/problems/3sum/)
+3. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+4. [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-
 </details>
 
 <details>
-<summary><b>Day 19: Sliding Window Technique</b></summary>
+<summary>⬜ <b>Day 19 | Sliding Window</b></summary>
 
-### 📌 Learning Objectives:
-- Understand sliding window pattern
-- Fixed-size and variable-size windows
-- Optimize subarray problems
+<br>
 
-### 📖 Resources:
-- [Sliding Window Technique](https://www.geeksforgeeks.org/window-sliding-technique/)
-- [Video: Sliding Window](https://www.youtube.com/watch?v=GcW4mgmgSbw)
-
-### 💻 Practice Problems:
-- [ ] Maximum sum subarray of size K
-- [ ] [Maximum Average Subarray](https://leetcode.com/problems/maximum-average-subarray-i/)
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
-- [ ] [Fruits Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
-
-### 💪 Motivational Quote:
-*"Slide through problems with grace and efficiency."*
+#### 💻 Problems
+1. Max Sum Subarray (Size K)
+2. [Maximum Average Subarray](https://leetcode.com/problems/maximum-average-subarray-i/)
+3. [Longest Substring Without Repeating](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+4. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-
 </details>
 
 <details>
-<summary><b>Day 20: Bit Manipulation</b></summary>
+<summary>⬜ <b>Day 20 | Bit Manipulation</b></summary>
 
-### 📌 Learning Objectives:
-- Learn bitwise operators (&, |, ^, ~, <<, >>)
-- Solve problems using bit tricks
-- Understand XOR properties
+<br>
 
-### 📖 Resources:
-- [Bit Manipulation Basics](https://www.geeksforgeeks.org/bits-manipulation-important-tactics/)
-- [Video: Bit Magic](https://www.youtube.com/watch?v=5rtVTYAk9KQ)
-
-### 💻 Practice Problems:
-- [ ] Check if number is power of 2
-- [ ] Count set bits in a number
-- [ ] [Single Number](https://leetcode.com/problems/single-number/)
-- [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
-- [ ] Swap two numbers using XOR
-- [ ] [Power Set using Bits](https://leetcode.com/problems/subsets/)
-
-### 💪 Motivational Quote:
-*"Think in bits, solve in seconds."*
+#### 💻 Problems
+1. Check Power of 2
+2. Count Set Bits
+3. [Single Number](https://leetcode.com/problems/single-number/)
+4. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+5. Swap using XOR
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-
 </details>
 
 <details>
-<summary><b>Day 21: Greedy Algorithms</b></summary>
+<summary>⬜ <b>Day 21 | Greedy Algorithms</b></summary>
 
-### 📌 Learning Objectives:
-- Understand greedy approach
-- Learn when greedy works
-- Practice optimization problems
+<br>
 
-### 📖 Resources:
-- [Greedy Algorithms](https://www.geeksforgeeks.org/greedy-algorithms/)
-- [Striver's Greedy Playlist](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+#### 💻 Problems
+1. [Best Time to Buy/Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+2. [Jump Game](https://leetcode.com/problems/jump-game/)
+3. [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
 
-### 💻 Practice Problems:
-- [ ] [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
-- [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
-- [ ] [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
-- [ ] [Minimum Platforms](https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/)
-- [ ] [N meetings in one room](https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/)
-
-### 💪 Motivational Quote:
-*"Week 3 done! 💪 You're in the advanced zone now!"*
+#### 🎉 Week 3 Complete!
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-- [ ] **Weekly Review: Revise Day 15-21**
-
 </details>
 
----
-
-### **Week 4: Data Structures** 📊
+### 📊 **WEEK 4: Data Structures**
 
 <details>
-<summary><b>Day 22: Stack - Basics</b></summary>
+<summary>⬜ <b>Day 22 | Stack</b></summary>
 
-### 📌 Learning Objectives:
-- Understand LIFO principle
-- Implement stack using array
-- Learn push, pop, peek operations
+<br>
 
-### 📖 Resources:
-- [Stack Data Structure](https://www.geeksforgeeks.org/stack-data-structure/)
-- [Video: Stack Implementation](https://www.youtube.com/watch?v=O1KeXo8lE8A)
-
-### 💻 Practice Problems:
-- [ ] Implement stack using array
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-- [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
-- [ ] [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
-- [ ] Reverse a string using stack
-- [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
-
-### 💪 Motivational Quote:
-*"Stack overflow? Not in your code, not in your determination!"*
+#### 💻 Problems
+1. Implement Stack (Array)
+2. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+3. [Min Stack](https://leetcode.com/problems/min-stack/)
+4. [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-
 </details>
 
 <details>
-<summary><b>Day 23: Queue - Basics</b></summary>
+<summary>⬜ <b>Day 23 | Queue</b></summary>
 
-### 📌 Learning Objectives:
-- Understand FIFO principle
-- Implement queue using array
-- Learn circular queue
+<br>
 
-### 📖 Resources:
-- [Queue Data Structure](https://www.geeksforgeeks.org/queue-data-structure/)
-- [Circular Queue](https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/)
-
-### 💻 Practice Problems:
-- [ ] Implement queue using array
-- [ ] Implement circular queue
-- [ ] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
-- [ ] [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
-- [ ] Generate binary numbers from 1 to N
-- [ ] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
-
-### 💪 Motivational Quote:
-*"Life is a queue. Wait for your turn, success will come."*
+#### 💻 Problems
+1. Implement Queue (Array)
+2. Circular Queue
+3. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+4. [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-
 </details>
 
 <details>
-<summary><b>Day 24: LinkedList - Part 1 (Basics)</b></summary>
+<summary>⬜ <b>Day 24 | LinkedList - Part 1</b></summary>
 
-### 📌 Learning Objectives:
-- Understand node structure
-- Implement singly linked list
-- Learn insertion and deletion
+<br>
 
-### 📖 Resources:
-- [LinkedList in Java](https://www.geeksforgeeks.org/linked-list-in-java/)
-- [Striver's LinkedList Series](https://takeuforward.org/data-structure/linked-list-insertion-at-beginning/)
-
-### 💻 Practice Problems:
-- [ ] Implement singly linked list
-- [ ] Insert at beginning, end, and middle
-- [ ] Delete a node
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- [ ] [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
-- [ ] [Detect Cycle](https://leetcode.com/problems/linked-list-cycle/)
-
-### 💪 Motivational Quote:
-*"Link by link, you're building mastery."*
+#### 💻 Problems
+1. Implement Singly LinkedList
+2. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+3. [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+4. [Detect Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-
 </details>
 
 <details>
-<summary><b>Day 25: LinkedList - Part 2 (Advanced)</b></summary>
+<summary>⬜ <b>Day 25 | LinkedList - Part 2</b></summary>
 
-### 📌 Learning Objectives:
-- Doubly linked list
-- Solve complex linked list problems
-- Two-pointer technique on lists
+<br>
 
-### 📖 Resources:
-- [Doubly Linked List](https://www.geeksforgeeks.org/doubly-linked-list/)
-
-### 💻 Practice Problems:
-- [ ] Implement doubly linked list
-- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [ ] [Remove Nth Node From End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
-- [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
-- [ ] [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
-
-### 💪 Motivational Quote:
-*"Complex problems are just simple steps linked together."*
+#### 💻 Problems
+1. Doubly LinkedList
+2. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+3. [Remove Nth Node From End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+4. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-
 </details>
 
 <details>
-<summary><b>Day 26: Trees - Part 1 (Basics)</b></summary>
+<summary>⬜ <b>Day 26 | Trees - Basics</b></summary>
 
-### 📌 Learning Objectives:
-- Understand tree terminology
-- Implement binary tree
-- Learn tree traversals (Inorder, Preorder, Postorder)
+<br>
 
-### 📖 Resources:
-- [Binary Tree Basics](https://www.geeksforgeeks.org/binary-tree-data-structure/)
-- [Video: Tree Traversals](https://www.youtube.com/watch?v=WLvU5EQVZqY)
-
-### 💻 Practice Problems:
-- [ ] Implement binary tree
-- [ ] [Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
-- [ ] [Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
-- [ ] [Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
-- [ ] [Maximum Depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-- [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
-
-### 💪 Motivational Quote:
-*"Grow your skills like a tree - deep roots, strong branches."*
+#### 💻 Problems
+1. Implement Binary Tree
+2. [Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+3. [Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+4. [Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+5. [Maximum Depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-
 </details>
 
 <details>
-<summary><b>Day 27: Trees - Part 2 (BST)</b></summary>
+<summary>⬜ <b>Day 27 | Binary Search Tree (BST)</b></summary>
 
-### 📌 Learning Objectives:
-- Understand Binary Search Tree properties
-- Learn BST operations
-- Solve BST problems
+<br>
 
-### 📖 Resources:
-- [Binary Search Tree](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
-
-### 💻 Practice Problems:
-- [ ] [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
-- [ ] [Search in BST](https://leetcode.com/problems/search-in-a-binary-search-tree/)
-- [ ] [Insert into BST](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
-- [ ] [Delete Node in BST](https://leetcode.com/problems/delete-node-in-a-bst/)
-- [ ] [Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-- [ ] [Kth Smallest Element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
-
-### 💪 Motivational Quote:
-*"Searching for success? BST shows you the optimal path."*
+#### 💻 Problems
+1. [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
+2. [Search in BST](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+3. [Insert into BST](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
+4. [Kth Smallest in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-
 </details>
 
 <details>
-<summary><b>Day 28: Dynamic Programming - Introduction</b></summary>
+<summary>⬜ <b>Day 28 | Dynamic Programming - Intro</b></summary>
 
-### 📌 Learning Objectives:
-- Understand memoization
-- Learn tabulation approach
-- Identify DP problems
+<br>
 
-### 📖 Resources:
-- [DP Introduction](https://www.geeksforgeeks.org/dynamic-programming/)
-- [Striver's DP Series](https://takeuforward.org/data-structure/dynamic-programming-introduction/)
+#### 💻 Problems
+1. [Climbing Stairs (DP)](https://leetcode.com/problems/climbing-stairs/)
+2. [Fibonacci (DP)](https://leetcode.com/problems/fibonacci-number/)
+3. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+4. [House Robber](https://leetcode.com/problems/house-robber/)
+5. [Maximum Subarray (Kadane's)](https://leetcode.com/problems/maximum-subarray/)
 
-### 💻 Practice Problems:
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-- [ ] [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) (DP approach)
-- [ ] [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
-- [ ] [House Robber](https://leetcode.com/problems/house-robber/)
-- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) (Kadane's)
-
-### 💪 Motivational Quote:
-*"Week 4 almost complete! 🎯 Final push!"*
+#### 🎉 Week 4 Complete!
 
 ---
-
-**Checklist:**
-- [ ] Completed all practice problems
-- [ ] Pushed code to GitHub
-- [ ] **Weekly Review: Revise Day 22-28**
-
 </details>
 
----
-
-### **Final Days: Mastery** 🏆
+### 🏆 **FINAL DAYS**
 
 <details>
-<summary><b>Day 29: Revision & Mock Contest</b></summary>
+<summary>⬜ <b>Day 29 | Revision & Mock Contest</b></summary>
 
-### 📌 Learning Objectives:
-- Revise all topics
-- Time-bound problem solving
-- Build exam/interview temperament
+<br>
 
-### 💻 Practice:
-- [ ] Solve 5 random problems from each topic
-- [ ] Take a virtual contest on LeetCode/Codeforces
-- [ ] Review your weak areas
-- [ ] Practice on whiteboard/paper
-
-### 📖 Resources:
-- [LeetCode Contest](https://leetcode.com/contest/)
-- [CodeChef Practice](https://www.codechef.com/problems/school)
-
-### 💪 Motivational Quote:
-*"Success is the sum of small efforts repeated day in and day out."*
+#### 🎯 Tasks
+- [ ] Solve 5 random problems from each week
+- [ ] Take LeetCode virtual contest
+- [ ] Review weak areas
+- [ ] Practice on paper/whiteboard
 
 ---
-
-**Checklist:**
-- [ ] Attempted mock contest
-- [ ] Identified weak topics
-- [ ] Revised notes
-
 </details>
 
 <details>
-<summary><b>Day 30: Final Challenge & Next Steps</b></summary>
+<summary>⬜ <b>Day 30 | Final Challenge 🎊</b></summary>
 
-### 📌 Learning Objectives:
-- Solve hard problems
-- Plan your next learning path
-- Celebrate your achievement!
+<br>
 
-### 💻 Final Challenge:
+#### 🎯 Tasks
 - [ ] Solve 3 Medium + 2 Hard problems
-- [ ] Optimize your previous solutions
-- [ ] Write a blog/post about your journey
-- [ ] Plan next 30 days (Advanced DP, Graphs, etc.)
+- [ ] Optimize previous solutions
+- [ ] Write blog about journey
+- [ ] Plan next 30 days
 
-### 📖 Resources:
-- [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
-- [LeetCode Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)
-
-### 💪 Motivational Quote:
-*"🎉 CONGRATULATIONS! You did it! This is not the end, it's just the beginning of your DSA journey!"*
+#### 🎉 CONGRATULATIONS! YOU DID IT!
 
 ---
-
-**Checklist:**
-- [ ] Completed final challenge
-- [ ] Updated GitHub profile
-- [ ] **Planned next learning path**
-- [ ] **🎊 CELEBRATED YOUR ACHIEVEMENT!**
-
 </details>
 
 ---
 
-## 📊 Progress Tracker
+## 🎓 Ultimate Resources
 
-Track your daily progress here:
+<table>
+<tr>
+<td width="50%">
 
-### Week 1: Foundations 🏗️
-- [ ] Day 1: Java Basics & Setup
-- [ ] Day 2: Conditional Statements
-- [ ] Day 3: Loops - Part 1
-- [ ] Day 4: Loops - Part 2 (Patterns)
-- [ ] Day 5: Functions & Methods
-- [ ] Day 6: Arrays - Part 1
-- [ ] Day 7: Arrays - Part 2
-
-### Week 2: Building Blocks 🧱
-- [ ] Day 8: Strings - Part 1
-- [ ] Day 9: Strings - Part 2
-- [ ] Day 10: Sorting - Part 1
-- [ ] Day 11: Sorting - Part 2
-- [ ] Day 12: Searching
-- [ ] Day 13: 2D Arrays
-- [ ] Day 14: Hashing
-
-### Week 3: Advanced Concepts 🚀
-- [ ] Day 15: Recursion - Part 1
-- [ ] Day 16: Recursion - Part 2
-- [ ] Day 17: Backtracking
-- [ ] Day 18: Two Pointers
-- [ ] Day 19: Sliding Window
-- [ ] Day 20: Bit Manipulation
-- [ ] Day 21: Greedy Algorithms
-
-### Week 4: Data Structures 📊
-- [ ] Day 22: Stack
-- [ ] Day 23: Queue
-- [ ] Day 24: LinkedList - Part 1
-- [ ] Day 25: LinkedList - Part 2
-- [ ] Day 26: Trees - Part 1
-- [ ] Day 27: Trees - Part 2 (BST)
-- [ ] Day 28: Dynamic Programming
-
-### Final Days: Mastery 🏆
-- [ ] Day 29: Revision & Mock Contest
-- [ ] Day 30: Final Challenge
-
----
-
-## 📚 Resources
-
-### 📺 YouTube Channels:
+### 📺 YouTube Channels
 - [Striver (TakeUForward)](https://www.youtube.com/@takeUforward)
-- [Kunal Kushwaha](https://www.youtube.com/@KunalKushwaha)
+- [Kunal Kushwaha DSA Bootcamp](https://www.youtube.com/@KunalKushwaha)
 - [Apna College](https://www.youtube.com/@ApnaCollegeOfficial)
-- [Abdul Bari](https://www.youtube.com/@abdul_bari)
+- [Abdul Bari (Algorithms)](https://www.youtube.com/@abdul_bari)
 
-### 🌐 Practice Platforms:
-- [LeetCode](https://leetcode.com/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- [HackerRank](https://www.hackerrank.com/)
-- [CodeChef](https://www.codechef.com/)
-- [Codeforces](https://codeforces.com/)
+</td>
+<td width="50%">
 
-### 📖 Important Sheets:
-- [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
-- [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
-- [LeetCode Top 150](https://leetcode.com/studyplan/top-interview-150/)
-- [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+### 🌐 Practice Platforms
+- [LeetCode](https://leetcode.com/) - Interview prep
+- [GeeksforGeeks](https://www.geeksforgeeks.org/) - Tutorials
+- [HackerRank](https://www.hackerrank.com/) - Challenges
+- [Codeforces](https://codeforces.com/) - Contests
 
-### 📚 Books:
-- "Cracking the Coding Interview" by Gayle Laakmann McDowell
-- "Introduction to Algorithms" by CLRS
-- "Data Structures and Algorithms Made Easy" by Narasimha Karumanchi
+</td>
+</tr>
+</table>
+
+### 📖 Must-Follow Sheets
+1. [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) ⭐
+2. [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) ⭐
+3. [LeetCode Top 150](https://leetcode.com/studyplan/top-interview-150/)
+4. [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 
 ---
 
 ## 🧠 Problem-Solving Framework
 
-Use this framework for EVERY problem:
+<div align="center">
 
-### **STEP 1: UNDERSTAND**
-```
-- Read problem 3 times
-- Identify input and output
-- Note constraints
-- Think of edge cases
-```
-
-### **STEP 2: ANALYZE**
-```
-- Draw the problem on paper
-- Work through 2-3 examples manually
-- Find the pattern
+```mermaid
+graph LR
+    A[Read Problem] --> B[Understand I/O]
+    B --> C[Draw Examples]
+    C --> D[Find Pattern]
+    D --> E[Write Pseudocode]
+    E --> F[Code Solution]
+    F --> G[Test & Debug]
+    G --> H[Analyze Complexity]
 ```
 
-### **STEP 3: PLAN**
-```
-- Think of brute force first
-- Can you optimize?
-- What data structure fits?
-- Write pseudocode
-```
+</div>
 
-### **STEP 4: CODE**
-```
-- Start with template
-- Write clean, readable code
-- Add comments
-- Handle edge cases
-```
+### ⚡ 5-Step Method
 
-### **STEP 5: TEST**
-```
-- Test with sample inputs
-- Test edge cases
-- Check time/space complexity
-- Optimize if needed
-```
+| Step | Action | Time |
+|------|--------|------|
+| 1️⃣ **Understand** | Read 3 times, note constraints | 2 min |
+| 2️⃣ **Analyze** | Draw on paper, find pattern | 5 min |
+| 3️⃣ **Plan** | Brute force → Optimize, pseudocode | 5 min |
+| 4️⃣ **Code** | Clean code with comments | 10 min |
+| 5️⃣ **Test** | Edge cases, complexity check | 3 min |
 
 ---
 
-## 🎯 Tips for Success
+## 💡 Pro Tips
 
-1. **Consistency > Intensity**: 1 hour daily beats 7 hours on Sunday
-2. **Understand, Don't Memorize**: Focus on logic, not rote learning
-3. **Code on Paper First**: Builds stronger problem-solving skills
-4. **Review Weekly**: Every Sunday, revise the week's topics
-5. **Don't Skip Basics**: Strong foundation = Easy advanced topics
-6. **Use Debugger**: Step through code to understand flow
-7. **Join Communities**: Discord, Reddit, GitHub discussions
-8. **Track Progress**: Update this README daily
-9. **Ask Questions**: No question is stupid in learning
-10. **Celebrate Small Wins**: Completed a day? You're awesome! 🎉
+<table>
+<tr>
+<td width="33%">
 
----
+### ⏰ Consistency
+- 1 hour daily > 7 hours Sunday
+- Same time everyday
+- Build a streak 🔥
 
-## 🤝 Contributing
+</td>
+<td width="33%">
 
-Found a great problem? Want to add resources? Contributions are welcome!
+### 📝 Practice Method
+- Code on paper first
+- No copy-paste ever
+- Type everything yourself
 
-1. Fork this repository
-2. Add your content
-3. Submit a pull request
+</td>
+<td width="33%">
 
----
+### 🎯 Progress Tracking
+- Update tables daily
+- Review weekly
+- Celebrate small wins 🎉
 
-## 📝 Notes Section
-
-### My Learning Notes:
-```
-Day 1: Learned about...
-Day 2: Struggled with... but understood after...
-Day 3: ...
-```
-
-### Patterns I've Mastered:
-- [ ] Frequency Counter
-- [ ] Two Pointers
-- [ ] Sliding Window
-- [ ] Divide & Conquer
-- [ ] Backtracking
-- [ ] Dynamic Programming
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌟 Motivational Corner
+## 📈 After 30 Days - What's Next?
 
-> "The expert in anything was once a beginner." - Helen Hayes
+<details>
+<summary><b>🚀 Click to see Advanced Roadmap</b></summary>
 
-> "Code is like poetry. It should be elegant, efficient, and expressive."
+<br>
 
-> "Every master was once a disaster."
-
-> "The only way to do great work is to love what you do." - Steve Jobs
-
-> "Programming isn't about what you know; it's about what you can figure out."
-
----
-
-## 📈 After 30 Days
-
-### What's Next?
-- [ ] **Graph Algorithms** (BFS, DFS, Dijkstra)
-- [ ] **Advanced DP** (LCS, Knapsack, DP on Trees)
-- [ ] **Segment Trees & Fenwick Trees**
-- [ ] **Trie Data Structure**
+### Next 30 Days Focus:
+- [ ] **Graphs** - BFS, DFS, Dijkstra, MST
+- [ ] **Advanced DP** - Knapsack, LCS, Matrix Chain
+- [ ] **Tries** - Autocomplete, Word Search
+- [ ] **Segment Trees** - Range queries
 - [ ] **System Design Basics**
 - [ ] **Competitive Programming**
 - [ ] **Open Source Contributions**
 
+### Recommended Order:
+1. Week 5-6: Graph Algorithms
+2. Week 7-8: Advanced DP & Greedy
+3. Week 9-10: Tries, Heaps, Segment Trees
+4. Week 11-12: Mock Interviews & System Design
+
+</details>
+
 ---
+
+## 🌟 Motivational Wall
 
 <div align="center">
 
-## 🏆 Hall of Fame
-
-**Completed the 30-Day Challenge?**  
-Add your name here!
-
-| Name | GitHub | Completion Date |
-|------|--------|----------------|
-| Your Name | [@yourusername](https://github.com/yourusername) | YYYY-MM-DD |
-
----
-
-### Made with ❤️ and lots of ☕
-
-**Star ⭐ this repo if it helped you!**
-
-[![GitHub followers](https://img.shields.io/github/followers/SaiVardhanKallempudi?style=social)](https://github.com/SaiVardhanKallempudi)
+| Quote | Author |
+|-------|--------|
+| *"The only way to do great work is to love what you do."* | Steve Jobs |
+| *"Code is like poetry. Make it elegant."* | Anonymous |
+| *"Every master was once a disaster."* | T. Harv Eker |
+| *"Programming isn't about what you know; it's about what you can figure out."* | Chris Pine |
 
 </div>
 
 ---
 
+## 🤝 Contributing
+
+Found a bug? Have a better solution? Want to add resources?
+
+1. Fork this repo
+2. Create your feature branch
+3. Commit changes
+4. Push to the branch
+5. Open a Pull Request
+
+---
+
+## 📞 Connect & Share
+
 <div align="center">
 
-### 🚀 Ready to start? Begin with Day 1 NOW!
+### Share Your Journey!
 
-**"The journey of a thousand miles begins with a single step."**
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/SaiVardhanKallempudi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com)
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+### ⭐ Star this repo if it helped you!
+
+![Star History](https://img.shields.io/github/stars/SaiVardhanKallempudi/DSAWITHJAVA?style=social)
+
+</div>
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License - feel free to use for learning!
+
+---
+
+<div align="center">
+
+### 🎯 Ready to Start?
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
+
+## **Click Day 1 Above and Begin Your Journey! 🚀**
+
+<sub>Made with ❤️ and ☕ by [SaiVardhanKallempudi](https://github.com/SaiVardhanKallempudi)</sub>
+
+---
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SaiVardhanKallempudi.DSAWITHJAVA)
 
 </div>
