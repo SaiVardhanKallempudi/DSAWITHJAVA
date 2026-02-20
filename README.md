@@ -1,14 +1,9 @@
-<!-- ============================================ -->
-<!--        HEADER: ANIMATED GRADIENT BANNER       -->
-<!-- ============================================ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:22C55E&height=200&section=header&text=30-Day%20DSA%20Mastery&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=From%20Zero%20to%20Hero%20in%20Data%20Structures%20%26%20Algorithms&descAlignY=52&descSize=17&descColor=E2E8F0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:22C55E&height=200&section=header&text=30-Day%20DSA%20Mastery&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=From%20Zero%20to%20Hero%20in%20Data%20Structures%20%26%20Algorithms&descAlignY=52&descSize=17&descColor=E2E8F0&fontFamily=Montserrat" alt="header" />
 
 <br/>
 
-<!-- TECH BADGES -->
 <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Topic-DSA-6366F1?style=for-the-badge" />
