@@ -1,17 +1,23 @@
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=30-Day%20DSA%20Mastery%20Challenge&fontSize=40&fontAlignY=35&animation=twinkling" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Topic-DSA-6366F1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Duration-30%20Days-0EA5E9?style=for-the-badge" />
-</p>
+<br/>
 
-<p align="center">
-  <i>"The only way to learn a new programming language is by writing programs in it."</i>  
-  <br/>Dennis Ritchie
-</p>
+<img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Topic-DSA-6366F1?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Duration-30%20Days-0EA5E9?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Progress-0%25-EF4444?style=for-the-badge" />
 
----
+<br/><br/>
+
+<!-- QUOTE -->
+<img width="680" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=The%20only%20way%20to%20learn%20a%20new%20programming%20language%20is%20by%20writing%20programs%20in%20it.&author=Dennis%20Ritchie" />
+
+</div>
 
 <br/>
 
