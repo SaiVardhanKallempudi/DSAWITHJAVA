@@ -1,4 +1,4 @@
-package Basics.BasicTask;
+package Day1.BasicTask;
 
 public class ReverseNumber {
     public static void main(String[] args) {

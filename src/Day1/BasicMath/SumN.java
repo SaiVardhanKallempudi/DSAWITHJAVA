@@ -1,4 +1,4 @@
-package Basics.BasicMath;
+package Day1.BasicMath;
 
 public class SumN {
     public static void main(String[] args) {
