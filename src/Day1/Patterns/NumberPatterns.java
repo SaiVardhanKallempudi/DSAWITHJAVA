@@ -1,4 +1,4 @@
-package Basics.Patterns;
+package Day1.Patterns;
 
 public class NumberPatterns {
     public static void main(String[] args) {
