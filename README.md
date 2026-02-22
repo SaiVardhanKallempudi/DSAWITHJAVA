@@ -243,7 +243,7 @@ Input: 7 → Output: Odd ✓
 > **Learning Objectives:** Master if-else, switch statements · Learn logical operators (&&, ||, !) · Understand nested conditions
 
 **📖 Resources:**
-- [Java If-Else](https://www.geeksforgeeks.org/java-if-else-statement/)
+- [Java If-Else](https://www.geeksforgeeks.org/java/java-if-else-statement-with-examples/)
 - [Video: Conditionals in Java](https://www.youtube.com/watch?v=ldYLYRNaucM)
 
 **💻 Practice Problems:**
