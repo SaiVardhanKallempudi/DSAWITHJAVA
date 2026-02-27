@@ -1,4 +1,4 @@
-package Day3;
+package Day3.arrays;
 
 public class MaxNumber {
     public static void main(String[] args) {
